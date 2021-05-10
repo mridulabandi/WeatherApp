@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ObjectMapper (3.5.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ObjectMapper (~> 3.3)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 7eabed21233b14f4fb17e50a4e490584758de2cc
+
+COCOAPODS: 1.8.4
